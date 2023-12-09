@@ -1,0 +1,16 @@
+.fontcolor{
+ color: #2D4651
+}
+
+.bgcolordashboard{
+ background-color: #272625
+}
+
+.bgimage{
+ background-image: url("./assets/2.png");
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ width: 100%;
+ height: auto;
+}
